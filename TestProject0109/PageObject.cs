@@ -13,7 +13,7 @@ namespace TestProject0109
         public string btnLupa = "nav-search-submit-text";
         public string txtIhpone = "twotabsearchtextbox";
         public string valorPesquisa = "iphone 11";
-
+        public string valorPesquisa111 = "iphone 11";
         // URL do site
         public string url = "https://www.amazon.com.br/";
 
